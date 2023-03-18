@@ -1,3 +1,3 @@
 # zetsuboii.github.io
 
-Hosts my personal website
+My personal website
